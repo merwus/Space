@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoreManagementData>
+  <StoreInfo>
+    <Name>Супермаркет &apos;Продукты&apos;</Name>
+    <Address>г. Санкт-Петербург, ул. Торжковская, д. 15</Address>
+    <Specialization>Продукты питания</Specialization>
+    <Director>Андрюнин Дмитрий Сергеевич</Director>
+  </StoreInfo>
+  <Products>
+    <Product>
+      <Code>001</Code>
+      <Name>Хлеб</Name>
+      <Price>50.0</Price>
+      <Quantity>35</Quantity>
+    </Product>
+    <Product>
+      <Code>002</Code>
+      <Name>Молоко</Name>
+      <Price>80.0</Price>
+      <Quantity>50</Quantity>
+    </Product>
+    <Product>
+      <Code>003</Code>
+      <Name>Яйца</Name>
+      <Price>120.0</Price>
+      <Quantity>30</Quantity>
+    </Product>
+    <Product>
+      <Code>004</Code>
+      <Name>Сахар</Name>
+      <Price>60.0</Price>
+      <Quantity>40</Quantity>
+    </Product>
+  </Products>
+  <Sellers>
+    <Seller>
+      <Id>S001</Id>
+      <FullName>Рагушин Игорь Михайлович</FullName>
+      <Position>Старший продавец</Position>
+      <Phone>+7-999-123-45-67</Phone>
+    </Seller>
+    <Seller>
+      <Id>S002</Id>
+      <FullName>Дроздов Сергей</FullName>
+      <Position>Продавец-кассир</Position>
+      <Phone>+7-999-148-82-28</Phone>
+    </Seller>
+    <Seller>
+      <Id>S003</Id>
+      <FullName>Шарапов Глеб Алексеевич</FullName>
+      <Position>Продавец-консультант</Position>
+      <Phone>+7-800-555-35-35</Phone>
+    </Seller>
+  </Sellers>
+</StoreManagementData>
